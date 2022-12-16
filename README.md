@@ -5,4 +5,4 @@ Two automatic retinal segmentation systems based on adaptive filtering and based
 ## Sample results
 | Ground Truth             |  Segmented by Thresholding | Segmented by UNet
 :-------------------------:|:-------------------------: |:-------------------------:
-![](26_training.tif)  |  ![](26_inf_threshold.gif) | ![](26_inf_unet.gif)
+![](26_training.png)  |  ![](26_inf_threshold.gif) | ![](26_inf_unet.gif)
